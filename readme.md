@@ -1,4 +1,6 @@
-# is-html
+# is-html-ts
+
+> forked from [is-html](https://github.com/sindresorhus/is-html)
 
 > Check if a string is HTML
 
