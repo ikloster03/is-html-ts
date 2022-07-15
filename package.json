@@ -1,6 +1,6 @@
 {
 	"name": "is-html-ts",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Check if a string is HTML",
 	"keywords": [
 		"html",
